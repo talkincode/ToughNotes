@@ -38,3 +38,5 @@ gem 'google-protobuf', '3.25.2'
 gem 'sass-embedded', '1.70.0'
 gem 'public_suffix', '~> 5.0.4'
 gem 'addressable', '~> 2.8.6'
+gem 'i18n', '~> 1.14.1'
+
