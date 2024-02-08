@@ -34,3 +34,5 @@ gem "wdm", "~> 0.1.1", :platforms => [:mingw, :x64_mingw, :mswin]
 # do not have a Java counterpart.
 gem "http_parser.rb", "~> 0.6.0", :platforms => [:jruby]
 gem "webrick"
+gem 'google-protobuf', '3.25.2'
+gem 'sass-embedded', '1.70.0'
