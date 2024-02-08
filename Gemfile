@@ -36,3 +36,4 @@ gem "http_parser.rb", "~> 0.6.0", :platforms => [:jruby]
 gem "webrick"
 gem 'google-protobuf', '3.25.2'
 gem 'sass-embedded', '1.70.0'
+gem 'public_suffix', '~> 5.0.3'
