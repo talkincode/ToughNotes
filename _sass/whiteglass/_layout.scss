@@ -9,8 +9,8 @@
 }
 
 .site-title {
-  font-size: 34px;
-  font-weight: 600;
+  font-size: 32px;
+  font-weight: 500;
   line-height: 56px;
   letter-spacing: -1px;
   margin-bottom: 0;
@@ -148,12 +148,12 @@
 }
 
 .post-title {
-  font-size: 32px;
+  font-size: 30px;
   letter-spacing: -1px;
   line-height: 1;
 
   @include media-query($on-laptop) {
-    font-size: 30px;
+    font-size: 28px;
   }
 }
 
