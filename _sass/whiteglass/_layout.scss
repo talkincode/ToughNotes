@@ -112,7 +112,7 @@
 .post-link {
   &,
   &:visited {
-    color: $text-color;
+    color: $link-color;
   }
 
   &:hover {
@@ -148,7 +148,8 @@
 }
 
 .post-title {
-  font-size: 30px;
+  font-size: 27px;
+  color: $link-color;
   letter-spacing: -1px;
   line-height: 1;
 
