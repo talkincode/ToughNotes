@@ -1,8 +1,8 @@
 ---
 layout: post
 title:  "MetaVoice 1B - TTS 和语音克隆"
-date:   2024-02-08 21:34:52 +0800
-categories: Python
+date:   2024-02-23 21:34:52 +0800
+categories: tts
 ---
 
 MetaVoice 最新发布的 MetaVoice1B，是一款引起热烈讨论的文字转语音（TTS）模型。不过，让我们不要太着急——鉴于有时候这类模型会表现出“飞跃式”的语言表达，我们还是一步步来。
