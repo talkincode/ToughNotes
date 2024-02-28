@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Building Your Own AI Tool with Streamlit and OpenAI"
+title: "使用 Streamlit + OpenAI 开发属于你自己的AI工具"
 date: 2024-02-28 00:00:00 -0000
 categories: AI Development Streamlit OpenAI
 ---
