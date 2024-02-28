@@ -4,9 +4,6 @@ title: "About"
 permalink: /about/
 ---
 
+我们的编程像玩耍一样自在，思考像诗人一样深邃，挑战现状，通过代码解读世界。Talkincode 不仅仅是一个技术博客；它是关于梦想、革命和未来的故事集。我们渴望知识，对未知充满好奇。
 
-Welcome to TalkinCode, a digital sanctuary where the art of coding, the marvels of artificial intelligence, the depth of big models, and the joy of youth programming converge. This is not a realm of lofty doctrines, but a playground where thoughts leap between bytes and exploration knows no bounds. Here, authority takes a back seat to the pursuit of truth, and formality bows to the essence and delight of content.
-
-We code like it's play, think like poets, challenging the status quo, interpreting the world through code. TalkinCode is more than a tech blog; it's a collection of stories about dreams, revolutions, and the future. Each character here carries a thirst for knowledge and a curiosity for the unknown.
-
-we believe coding is not just a product of technology but an expression of culture. It's both a tool and an art form. We invite everyone who holds insights and passion for coding to share your stories. Let's embark on an endless journey through the world of code, discovering the infinite together.
+我们相信，编程不仅仅是技术的产物，它还是文化的表达。它既是工具，也是艺术形式。我们邀请每一个对编程有见解和热情的人分享你的故事。让我们一起踏上这一段永无止境的代码世界之旅，共同发现无限的可能。
