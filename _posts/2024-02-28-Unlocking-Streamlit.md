@@ -61,6 +61,4 @@ st.write('过滤后的数据帧：', filtered_df)
 
 <img width="837" alt="image" src="https://github.com/talkincode/toughradius/assets/377938/a67d9034-4ea6-4ce4-8a8a-21836b096a3f">
 
-### 结论
-
 Streamlit作为一种在面对复杂数据和应用开发挑战时简单性的力量的证明，赋予了不同编程技能水平的个体将他们的数据变为生动的交互式Web应用的能力，这些应用可以提供信息、吸引人并激发灵感。随着我们继续导航在我们可用的庞大数据海洋中，像Streamlit这样的工具在使数据科学变得易于接近、吸引人和有趣方面将是不可或缺的。今天就探索Streamlit，释放你数据的潜力吧。
