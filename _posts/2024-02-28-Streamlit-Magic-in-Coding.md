@@ -47,6 +47,8 @@ chart_data = pd.DataFrame(np.random.randn(20, 3), columns=['a', 'b', 'c'])
 st.line_chart(chart_data)
 ```
 
+<img width="840" alt="image" src="https://github.com/talkincode/toughradius/assets/377938/8c4eef16-6c43-44ea-9446-f0229206fda7">
+
 这段代码仅仅触及了使用Streamlit可能性的表面。无论你是在可视化复杂数据集、构建机器学习工具还是简单地探索数据，Streamlit的简单性和力量真的很神奇。
 
 ## 开启创新与效率的新领域
