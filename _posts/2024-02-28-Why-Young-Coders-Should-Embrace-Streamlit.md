@@ -104,6 +104,8 @@ ax.bar(filtered_df['Brand'], filtered_df['Sales'])
 st.pyplot(fig)
 ```
 
+![image](https://github.com/talkincode/toughradius/assets/377938/589824a9-781d-4c9e-a0e7-2791aa52e9fc)
+
 这段脚本创建了一个用户可以实时交互的Web应用。它不仅具有选择要查看哪些品牌数据的功能，而且还能立即看到其结果的视觉表示。
 
 通过这个简单的对比，学生可以直观地看到编程技术的进步如何从基本的绘图转变为创建富有互动性的实用应用程序。这对于编程教育来说是一次质的飞跃，使学习者得以全面发展编程技能并准备好迈向未来。
