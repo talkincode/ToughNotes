@@ -7,7 +7,6 @@ categories: AI Development Streamlit OpenAI
 
 ![image](https://github.com/talkincode/toughradius/assets/377938/d5a55079-0bb3-40f6-a457-d3bd930e331c)
 
-
 ## 1. 引言
 
 在当今时代，人工智能(AI)工具越来越成为许多行业和业务操作中不可缺少的一部分，无论是在数据分析、内容创建、自动化任务执行，还是客户服务领域，AI都发挥着极其重要的作用。使用AI，我们可以处理大量的数据，挖掘有价值的洞察，甚至模拟人类智能进行交互。然而，尽管AI工具的潜力巨大，但创建和部署这些工具往往需要专业的技术知识和编程技能。
@@ -114,7 +113,6 @@ streamlit run app.py
 - Heroku：适合中等规模的项目。
 - AWS/GCP/Azure：对于需要高度自定义和大规模部署的项目。
 
-
 ## 5. 开发一个简单的AI工具示例
 
 假设我们要开发一个使用GPT-4的简单问答系统。用户输入一个问题，系统则调用OpenAI API得到回答，并展示在Streamlit界面上。
@@ -165,7 +163,6 @@ for message in st.session_state.messages:
     with st.chat_message_container():
         st.chat_message(message["content"], message["role"])
 ```
-
 
 运行你的Streamlit应用：
 
@@ -247,4 +244,3 @@ streamlit run app.py
 - Streamlit组件库: [https://streamlit.io/components](https://streamlit.io/components)
 - Streamlit GitHub存储库: [https://github.com/streamlit/streamlit](https://github.com/streamlit/streamlit)
 - OpenAI安全和伦理考虑: [https://openai.com/ethics/](https://openai.com/ethics/)
-
