@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "为什么少年编程者们应该学习Streamlit：超越海龟画图"
+title: "为什么少年编程者们应该学习Streamlit：忘掉海龟画图吧"
 date: 2024-02-28 00:00:00 -0000
 categories: 编程 教育 Streamlit 青少年
 ---
