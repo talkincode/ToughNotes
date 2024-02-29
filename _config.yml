@@ -40,7 +40,7 @@ plugins:
 markdown: kramdown
 excerpt_separator: "<!-- more -->"
 
-permalink: /:year/:month/:day/:title/
+permalink: /:year/:month/:day/:title/index.html
 paginate_path: /posts/:num/
 paginate: 5
 
