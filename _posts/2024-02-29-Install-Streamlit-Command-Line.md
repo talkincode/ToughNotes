@@ -113,6 +113,6 @@ deactivate
 
 ### 还有疑问？
 
-如果你有任何疑问，我们的[论坛](https://discuss.streamlit.io/)汇集了大量有用信息和Streamlit专家。
+如果你有任何疑问，Streamlit 的官方[论坛](https://discuss.streamlit.io/)汇集了大量有用信息和Streamlit专家。
 
 希望这篇教程对你有帮助。享受编程之旅！
