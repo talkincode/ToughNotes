@@ -5,6 +5,8 @@ date: 2024-02-28 00:00:00 -0000
 categories: Streamlit 编程 数据科学
 ---
 
+![](https://raw.githubusercontent.com/jamiesun/images/master/default/f3Vyur.png)
+
 Streamlit迅速成为数据科学和应用开发领域的一项革命性工具，将复杂的数据分析和交互式Web应用创建变成了一项简单如编写Python脚本的任务。本博客旨在揭示Streamlit的神秘面纱，通过引人入胜的示例突出其架构、功能以及它如何无缝地将原始数据转化为引人注目的Web应用。
 
 ### Streamlit是什么？

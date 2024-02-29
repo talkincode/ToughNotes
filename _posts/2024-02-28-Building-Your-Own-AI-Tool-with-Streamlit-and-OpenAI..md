@@ -5,7 +5,7 @@ date: 2024-02-28 00:00:00 -0000
 categories: AI Development Streamlit OpenAI
 ---
 
-![image](https://github.com/talkincode/toughradius/assets/377938/d5a55079-0bb3-40f6-a457-d3bd930e331c)
+![image](https://raw.githubusercontent.com/jamiesun/images/master/default/4TwZcw.png)
 
 ## 1. 引言
 

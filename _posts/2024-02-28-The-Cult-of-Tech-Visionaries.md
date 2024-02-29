@@ -5,7 +5,7 @@ date: 2024-02-28 00:00:00 -0000
 categories: 未来 科技 领导力
 ---
 
-![](https://cdn-images-1.medium.com/v2/resize:fit:1600/0*M6xnXKCcsWiWlDkA)
+![](https://raw.githubusercontent.com/jamiesun/images/master/default/rbCTQe.png)
 
 在硅谷的迷宫中，科技巨头漫步，创新贯穿雄心勃勃者的血脉，一种新型的英雄浮现。这种英雄不是披着斗篷的那种，而是那种拥有愿景、韧性和一种不屈不挠的精神，推动世界走向未来的人。这个故事并不新鲜，但其角色却在不断变化。曾经，我们因Steve Jobs和Elon Musk对技术和社会的开创性贡献而敬仰他们。今天，我们将目光转向Sam Altman，一位在最近的事件中，巩固了他作为科技界最新崇拜英雄地位的人物。
 

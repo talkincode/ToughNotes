@@ -5,7 +5,7 @@ date: 2024-02-28 00:00:00 -0000
 categories: 数据科学 Streamlit 编程
 ---
 
-![image](https://github.com/talkincode/toughradius/assets/377938/65dda038-a25e-479b-aba1-ea9020072a8c)
+![image](https://raw.githubusercontent.com/jamiesun/images/master/default/Tr4fop.png)
 
 在数据科学和应用程序开发的领域中，有这样一种工具，它强大而又简约优雅，能够将编码的艰巨任务转化为视觉上的盛宴。这个工具就是Streamlit，一个开源的应用程序框架，已经在技术世界掀起了风暴。被誉为“编码中的魔法”，Streamlit使开发人员、数据科学家和爱好者们能够仅用几行Python代码就创建出交互性强且美观的Web应用。但究竟是什么让Streamlit在众多应用开发工具中脱颖而出呢？让我们一起探索这份魔法。
 
