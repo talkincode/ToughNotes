@@ -23,7 +23,7 @@ email: jamiesun.net@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Talkincode 是一个编程技术博客；关于梦想、革命和未来的故事集。我们渴望知识，对未知充满好奇。
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://blog.talkincode.net" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: jekyllrb
 github_username:  jamiesun
 
@@ -40,7 +40,7 @@ plugins:
 markdown: kramdown
 excerpt_separator: "<!-- more -->"
 
-permalink: /:year/:month/:day/:title/index.html
+permalink: /:year/:month/:day/:title/
 paginate_path: /posts/:num/
 paginate: 5
 
