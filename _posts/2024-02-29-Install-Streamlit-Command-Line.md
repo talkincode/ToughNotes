@@ -5,7 +5,7 @@ date:   2024-02-29 14:20:00 +0800
 categories: tech tutorial python streamlit
 ---
 
-![](https://raw.githubusercontent.com/jamiesun/images/master/default/ezcpOz.png)
+![如何使用命令行安装Streamlit](https://raw.githubusercontent.com/jamiesun/images/master/default/ezcpOz.png)
 
 今天，我们将一起学习如何使用命令行来安装流行的Python库Streamlit。本教程针对初学者以及对流行数据可视化工具Streamlit感兴趣的开发者。安装Streamlit之前，我们会首先创建一个虚拟环境，并在这个环境中进行操作。虚拟环境是用于项目间隔离包依赖关系的实用工具。本教程中，我们将使用Python自带的`venv`和`pip`。
 

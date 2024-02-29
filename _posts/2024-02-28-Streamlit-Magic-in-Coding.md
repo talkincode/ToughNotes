@@ -5,7 +5,7 @@ date: 2024-02-28 00:00:00 -0000
 categories: 数据科学 Streamlit 编程
 ---
 
-![image](https://raw.githubusercontent.com/jamiesun/images/master/default/Tr4fop.png)
+![Streamlit 魔法：将数据科学转化为视觉盛宴](https://raw.githubusercontent.com/jamiesun/images/master/default/Tr4fop.png)
 
 在数据科学和应用程序开发的领域中，有这样一种工具，它强大而又简约优雅，能够将编码的艰巨任务转化为视觉上的盛宴。这个工具就是Streamlit，一个开源的应用程序框架，已经在技术世界掀起了风暴。被誉为“编码中的魔法”，Streamlit使开发人员、数据科学家和爱好者们能够仅用几行Python代码就创建出交互性强且美观的Web应用。但究竟是什么让Streamlit在众多应用开发工具中脱颖而出呢？让我们一起探索这份魔法。
 
@@ -47,7 +47,7 @@ chart_data = pd.DataFrame(np.random.randn(20, 3), columns=['a', 'b', 'c'])
 st.line_chart(chart_data)
 ```
 
-<img width="840" alt="image" src="https://github.com/talkincode/toughradius/assets/377938/8c4eef16-6c43-44ea-9446-f0229206fda7">
+![Streamlit 魔法实践](https://github.com/talkincode/toughradius/assets/377938/8c4eef16-6c43-44ea-9446-f0229206fda7)
 
 这段代码仅仅触及了使用Streamlit可能性的表面。无论你是在可视化复杂数据集、构建机器学习工具还是简单地探索数据，Streamlit的简单性和力量真的很神奇。
 

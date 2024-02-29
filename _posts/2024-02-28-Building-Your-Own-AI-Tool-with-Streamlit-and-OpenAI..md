@@ -5,7 +5,7 @@ date: 2024-02-28 00:00:00 -0000
 categories: AI Development Streamlit OpenAI
 ---
 
-![image](https://raw.githubusercontent.com/jamiesun/images/master/default/4TwZcw.png)
+![使用 Streamlit + OpenAI 开发属于你自己的AI工具](https://raw.githubusercontent.com/jamiesun/images/master/default/4TwZcw.png)
 
 ## 1. 引言
 

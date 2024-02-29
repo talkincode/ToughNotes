@@ -5,7 +5,7 @@ date:   2024-02-29 21:10:37 +0800
 categories: streamlit webapp development
 ---
 
-![](https://raw.githubusercontent.com/jamiesun/images/master/default/q4FYXx.png)
+![探索Streamlit的高级概念与技巧](https://raw.githubusercontent.com/jamiesun/images/master/default/q4FYXx.png)
 
 在我们了解了Streamlit如何运行和处理数据后，今天我们来讨论如何提高效率。我们将重点介绍缓存和会话状态（Session State），这些功能可以让你在应用程序之间保存数据和状态，避免不必要的重复计算，从而创建动态页面和处理渐进式的进程。
 

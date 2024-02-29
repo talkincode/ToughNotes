@@ -5,7 +5,7 @@ date: 2024-02-28 00:00:00 -0000
 categories: 编程 教育 Streamlit 青少年
 ---
 
-![image](https://raw.githubusercontent.com/jamiesun/images/master/default/z0y8VH.png)
+![为什么少年编程者们应该学习Streamlit：忘掉海龟画图吧](https://raw.githubusercontent.com/jamiesun/images/master/default/z0y8VH.png)
 
 在编程教育领域，尤其是针对青少年受众，“海龟画图”长久以来一直是学习 Python 编程基础的首选方法。尽管通过指令控制一个数字海龟创建形状和图案的魅力无可否认，但编程的领域广阔且不断进化。是时候让我们的年轻编程者们接触到那些不仅能激发他们的兴趣，而且还能为他们准备好面对技术未来的工具了。Streamlit，一个将数据科学和应用开发转化为易接近、有趣且有吸引力的现代工具，就此登场。
 
@@ -104,7 +104,7 @@ ax.bar(filtered_df['Brand'], filtered_df['Sales'])
 st.pyplot(fig)
 ```
 
-![image](https://github.com/talkincode/toughradius/assets/377938/589824a9-781d-4c9e-a0e7-2791aa52e9fc)
+![Streamlit：交互式和动态的应用](https://github.com/talkincode/toughradius/assets/377938/589824a9-781d-4c9e-a0e7-2791aa52e9fc)
 
 这段脚本创建了一个用户可以实时交互的Web应用。它不仅具有选择要查看哪些品牌数据的功能，而且还能立即看到其结果的视觉表示。
 

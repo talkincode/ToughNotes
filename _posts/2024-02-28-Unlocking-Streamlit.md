@@ -5,7 +5,7 @@ date: 2024-02-28 00:00:00 -0000
 categories: Streamlit 编程 数据科学
 ---
 
-![](https://raw.githubusercontent.com/jamiesun/images/master/default/f3Vyur.png)
+![解锁Streamlit：将数据转化为交互式Web应用](https://raw.githubusercontent.com/jamiesun/images/master/default/f3Vyur.png)
 
 Streamlit迅速成为数据科学和应用开发领域的一项革命性工具，将复杂的数据分析和交互式Web应用创建变成了一项简单如编写Python脚本的任务。本博客旨在揭示Streamlit的神秘面纱，通过引人入胜的示例突出其架构、功能以及它如何无缝地将原始数据转化为引人注目的Web应用。
 
@@ -46,7 +46,8 @@ st.dataframe(df)
 # 绘制线图
 st.line_chart(df)
 ```
-<img width="839" alt="image" src="https://github.com/talkincode/toughradius/assets/377938/37bb2209-600d-4490-aac3-f1cd776bd636">
+
+![Streamlit实战：一个简单示例](https://github.com/talkincode/toughradius/assets/377938/37bb2209-600d-4490-aac3-f1cd776bd636)
 
 在这个示例中，你可以看到使用Streamlit设置Web应用是多么直接。仅用几行Python代码，我们就创建了一个展示数据帧和图表的应用。这个示例仅仅触及了使用Streamlit可能性的表面。
 
@@ -61,6 +62,6 @@ filtered_df = df[(df['A'] >= slider[0]) & (df['A'] <= slider[1])]
 st.write('过滤后的数据帧：', filtered_df)
 ```
 
-<img width="837" alt="image" src="https://github.com/talkincode/toughradius/assets/377938/a67d9034-4ea6-4ce4-8a8a-21836b096a3f">
+![超越基础：高级Streamlit应用](https://github.com/talkincode/toughradius/assets/377938/a67d9034-4ea6-4ce4-8a8a-21836b096a3f)
 
 Streamlit作为一种在面对复杂数据和应用开发挑战时简单性的力量的证明，赋予了不同编程技能水平的个体将他们的数据变为生动的交互式Web应用的能力，这些应用可以提供信息、吸引人并激发灵感。随着我们继续导航在我们可用的庞大数据海洋中，像Streamlit这样的工具在使数据科学变得易于接近、吸引人和有趣方面将是不可或缺的。今天就探索Streamlit，释放你数据的潜力吧。

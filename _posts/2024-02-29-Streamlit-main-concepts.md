@@ -5,7 +5,7 @@ date:   2024-02-29 15:20:00 +0800
 categories: streamlit python
 ---
 
-![](https://raw.githubusercontent.com/jamiesun/images/master/default/J0uPIG.png)
+![Streamlit 的主要概念](https://raw.githubusercontent.com/jamiesun/images/master/default/J0uPIG.png)
 
 Streamlit 是一个开源Python库，它让数据科学家和开发者能够快速创建和分享数据应用。你只需要用很少的代码，就可以把数据分析转化为互动的web应用。以下是Streamlit的一些主要概念，让我们一起来学习如何使用Streamlit！
 
