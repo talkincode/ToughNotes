@@ -2,8 +2,10 @@
 layout: post
 title: "少年 Docker 入门：容器海洋的航行者"
 date: 2024-03-01 00:00:00 -0000
-categories: Technology
+categories: Technology Docker
 ---
+
+![少年 Docker 入门：容器海洋的航行者](https://raw.githubusercontent.com/jamiesun/images/master/default/hiaUbe.png)
 
 在数字时代，技术塑造了我们的日常生活，理解驱动我们数字世界的工具不仅仅是一种资产——它是一种必需品。Docker，你可能在技术论坛的走廊里偶尔听到的名字，或是在你的哥哥姐姐的笔记本屏幕上瞥见的词，站在现代软件开发的前沿。但Docker究竟是什么，为什么你，一个聪明的年轻人，应该关心它？让我们一起踏上这段旅程，轻松而好奇地驾驭容器的海洋。
 
