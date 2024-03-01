@@ -90,7 +90,7 @@ st.scatter_chart(st.session_state.df, x="x", y="y", color=color) # 绘制散点�
 
 如果你正在获取所有用户都相同的数据，你可能会缓存一个检索该数据的函数。另一方面，如果您获取的是特定于用户的数据，例如查询他们的个人信息，您可能想将其保存在会话状态中。这样，查询的数据只在那一个会话中可用。
 
-正如在[主要概念](https://docs.streamlit.io/get-started/fundamentals/main-concepts#widgets)中提到的，会话状态也与小部件相关。小部件像魔法一样，静静地处理自己的状态。但作为一个高级功能，你可以通过为它们分配键来在代码中操控小部件的值。分配给小部件的任何键都会成为会话状态中与该小部件值相关的键。这可以用来操控小部件的值。在你理解Streamlit的基础知识后，如果你感兴趣，可以查看[小部件行为指南](https://docs.streamlit.io/library/advanced-features/widget-behavior)，深入了解详情。
+正如在[主要概念](https://blog.talkincode.net/2024/02/29/Streamlit-main-concepts/)中提到的，会话状态也与小部件相关。小部件像魔法一样，静静地处理自己的状态。但作为一个高级功能，你可以通过为它们分配键来在代码中操控小部件的值。分配给小部件的任何键都会成为会话状态中与该小部件值相关的键。这可以用来操控小部件的值。在你理解Streamlit的基础知识后，如果你感兴趣，可以查看[小部件行为指南](https://docs.streamlit.io/library/advanced-features/widget-behavior)，深入了解详情。
 
 ## 连接管理
 

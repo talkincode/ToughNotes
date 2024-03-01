@@ -107,7 +107,7 @@ deactivate
 
 ## 下一步该做什么？
 
-有了这些基础，你现在可以开始进一步研究Streamlit的功能。建议从阅读[主要概念](https://docs.streamlit.io/get-started/fundamentals/main-concepts)开始，以了解Streamlit的数据流模型。
+有了这些基础，你现在可以开始进一步研究Streamlit的功能。建议从阅读[主要概念](https://blog.talkincode.net/2024/02/29/Streamlit-main-concepts/)开始，以了解Streamlit的数据流模型。
 
 想回顾安装步骤，请访问[安装教程](https://docs.streamlit.io/get-started/installation)。如果你更喜欢使用图形界面管理你的Python环境，请查看[如何使用Anaconda Distribution安装Streamlit](https://docs.streamlit.io/get-started/installation/anaconda-distribution)。
 
