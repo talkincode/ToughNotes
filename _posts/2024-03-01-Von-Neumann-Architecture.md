@@ -5,7 +5,7 @@ date: 2024-03-01 00:00:00 -0000
 categories: 冯·诺依曼架构 计算机
 ---
 
-![冯·诺依曼架构](https://raw.githubusercontent.com/jamiesun/images/master/default/Mfjd72.png)
+![冯·诺依曼架构：现代计算的蓝图](https://raw.githubusercontent.com/jamiesun/images/master/default/Mfjd72.png)
 
 在技术演化的宏伟画卷中，几乎没有哪种设计像冯·诺依曼架构一样留下了不可磨灭的印记。这一天才的蓝图，概念化于1940年代，已成为现代计算建立之基。但是，冯·诺依曼架构究竟有何重要之处，又是如何塑造了我们今天使用的计算机呢？
 
