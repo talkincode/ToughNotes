@@ -171,7 +171,6 @@
 
   h2 {
     font-size: 22px;
-    font-weight: 700;
     @include media-query($on-laptop) {
       font-size: 18px;
     }
