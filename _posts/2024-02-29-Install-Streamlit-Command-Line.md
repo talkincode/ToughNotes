@@ -73,7 +73,7 @@ python -m streamlit hello
 
 你应该会看到Streamlit的欢迎页在你的浏览器新标签页中打开。
 
-![](https://raw.githubusercontent.com/jamiesun/images/master/default/4QsdnG.png)
+!["Hello World"应用](https://raw.githubusercontent.com/jamiesun/images/master/default/4QsdnG.png)
 
 ## 创建并运行一个"Hello World"应用
 
