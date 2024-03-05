@@ -146,8 +146,11 @@ blockquote {
   color: $grey-color;
   border-left: 4px solid $grey-color-light;
   padding: $spacing-unit * 0.5 $spacing-unit * 0.5;
+  background: #e6e6e6;
   font-size: 16px;
   letter-spacing: -1px;
+  font-style: normal;
+
   > :last-child {
     margin-bottom: 0;
   }
