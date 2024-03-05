@@ -21,7 +21,7 @@
 title: Talkincode
 email: jamiesun.net@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Talkincode 是一个编程技术博客；关于梦想、革命和未来的故事集。我们渴望知识，对未知充满好奇。
+  Talkincode 是一个技术博客；关于编程，梦想、科技和未来的故事集。我们渴望知识，对未知充满好奇。
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://blog.talkincode.net" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: jekyllrb
