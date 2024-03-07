@@ -7,7 +7,8 @@ permalink: /about/
 
 ![about 谈晶阁](https://raw.githubusercontent.com/jamiesun/images/master/default/QcTIUT.png)
 
-> 欢迎来到谈晶阁博客， 这是 JettWang 与他的学生 BoyJiang 共同维护的技术博客。
+> 欢迎来到谈晶阁博客， 这是 JettWang 与他的学生 BoyJiang 共同维护的编程技术博客。
+> 博客基于  Jekyll & Whiteglass & Github & Cloudflare Pages 技术搭建， 使用 Markdown 写作。
 
 编程应该像玩耍一样自在，但要像诗人一样深邃的思考，通过代码解读世界。
 
