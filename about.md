@@ -1,6 +1,7 @@
 ---
 layout: page
 title: "关于谈晶阁-Talkincode"
+keywords: 谈晶阁, Talkincode, 编程
 permalink: /about/
 ---
 
