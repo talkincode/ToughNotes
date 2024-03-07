@@ -18,10 +18,10 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Talkincode
+title: 谈晶阁
 email: jamiesun.net@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Talkincode 是一个技术博客；关于编程，梦想、科技和未来的故事集。我们渴望知识，对未知充满好奇。
+  谈晶阁是一个技术博客；关于编程，梦想、科技和未来的故事集。我们渴望知识，对未知充满好奇。
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://blog.talkincode.net" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: jekyllrb
