@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "谈晶阁"
+title: "关于谈晶阁-Talkincode"
 permalink: /about/
 ---
 
