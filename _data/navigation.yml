@@ -3,5 +3,7 @@ main:
     url: /about/
   - title: "文章存档"
     url: /archives/
+  - title: "酷学"
+    url: https://coollearn.talkincode.net
   - title: "GitHub"
     url: https://github.com/talkincode
