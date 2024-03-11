@@ -6,9 +6,7 @@ categories: python audio sounddevice
 keywords: python, audio, sounddevice
 ---
 
-Sounddevice 是一个用于录制和播放音频的Python库，它以直观的API为特色，并为PortAudio音频I/O库提供了一个封装。Sounddevice是 cross-platform，支持多种操作系统和硬件设备。下面我们将介绍这个库的几个重要的组成部分以及相关的函数，并通过代码示例加以说明。
-
-Sounddevice 是一个强大的音频处理库，提供了多种应用场景，以下是一些比较常见的例子：
+Sounddevice 是一个用于录制和播放音频的Python库，它以直观的API为特色，并为PortAudio音频I/O库提供了一个封装。Sounddevice是 cross-platform，支持多种操作系统和硬件设备。以下是一些比较常见的例子：
 
 - 实时音频处理：利用 `sounddevice.Stream` 对象，可以实现低延迟的实时音频信号处理。音乐家和音频工程师可能使用 Sounddevice 来处理实时音乐表演的音频信号，比如实时混音、音频特效的添加和态音频信号监测。
 
