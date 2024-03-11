@@ -26,8 +26,6 @@ Sounddevice 是一个用于录制和播放音频的Python库，它以直观的AP
 
 当`sounddevice`模块被导入时，PortAudio系统会自动被初始化。在大多数情况下，用户无需手动初始化或终止。如果需要，可以使用`sounddevice._initialize()`和`sounddevice._terminate()`来手动管理。
 
-在使用 `sounddevice` 模块进行音频处理时，通常不需要显式初始化和终止 PortAudio 系统，因为这会在模块导入时自动完成。但是，如果需要直接控制初始化和终止过程，可以调用 `sounddevice` 模块的私有函数 `_initialize()` 和 `_terminate()`，如以下示例所示：
-
 ## 2. 核心对象和函数
 
 ### 2.1. Stream 对象
