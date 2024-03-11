@@ -3,6 +3,7 @@ layout: post
 title:  "在 Streamlit 中使用 Cookie 管理会话状态"
 date:   2024-03-07 15:59:34 +0800
 categories: streamlit cookies session-state
+keywords: streamlit, cookies, session-state
 ---
 
 在构建基于Web的应用程序时，会话状态管理是一项至关重要的功能，它允许我们跟踪用户的交互状态，从而提供连贯且个性化的用户体验。Streamlit作为一种用于创建数据应用程序的Python库，其核心设计没有直接提供会话状态或cookie管理功能，这是由于Streamlit的主要设计目标是简化数据应用程序的创建和部署过程。然而，在实际的应用开发中，管理用户会话往往是不可或缺的，因此了解在Streamlit环境下如何巧妙利用cookie进行状态管理，显得尤为重要。
