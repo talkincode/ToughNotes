@@ -6,7 +6,7 @@ categories: AI Future Economy
 tags: AI Future Economy
 ---
 
-<iframe width="750" height="423" src="https://www.youtube.com/embed/jvqFAi7vkBc?si=zV86-Y9nfOTvVaXq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="735" height="423" src="https://www.youtube.com/embed/jvqFAi7vkBc?si=zV86-Y9nfOTvVaXq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 > 在这场与萨姆·奥特曼的对话中，他分享了对计算力作为未来货币的看法，预测到本世纪末我们可能会见证制造出极其出色的系统。他认为，AGI的发展可能伴随着全球范围内的巨大权力斗争，并提到了去年与Openai董事会的严峻经历，这是他职业生涯中最艰难的时刻之一，同时也是一个有教育意义的挑战。这场闹剧让他对人们的信任产生了质疑，但他也从中感受到了爱和支持。他对公司未来的董事会结构和组织架构提出了一些思考，并坚信个人不应对AGI或公司拥有绝对控制。
 > 
