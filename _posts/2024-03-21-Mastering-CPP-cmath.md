@@ -5,6 +5,7 @@ date: 2024-03-21 14:56:22 +0800
 categories: c++ programming cmath
 ---
 
+![6zGy8A](https://raw.githubusercontent.com/jamiesun/images/master/default/6zGy8A.jpg)
 
 C++ `cmath` 库为程序员提供了一套丰富的数学函数，允许执行各种数学运算。这篇文章将详细讲解 `cmath` 库中的每个方法，并通过具体示例来展示它们的用法。
 
