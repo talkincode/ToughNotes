@@ -6,7 +6,7 @@ categories: c++ memory-allocation
 keywords: c++, memory-allocation
 ---
 
-![WRXPJE](https://raw.githubusercontent.com/jamiesun/images/master/default/WRXPJE.jpg)
+![xrzjGp](https://raw.githubusercontent.com/jamiesun/images/master/default/xrzjGp.jpg)
 
 想象一下有一家五星级酒店，程序则是这家酒店的客人。C++内存分配基本上就是确定程序中的每个变量或对象在酒店的哪个房间住下。
 
