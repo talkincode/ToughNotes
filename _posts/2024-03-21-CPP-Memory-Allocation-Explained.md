@@ -6,6 +6,8 @@ categories: c++ memory-allocation
 keywords: c++, memory-allocation
 ---
 
+![WRXPJE](https://raw.githubusercontent.com/jamiesun/images/master/default/WRXPJE.jpg)
+
 想象一下有一家五星级酒店，程序则是这家酒店的客人。C++内存分配基本上就是确定程序中的每个变量或对象在酒店的哪个房间住下。
 
 在 C++的世界里，内存分配就像是分配酒店房间一样。这家酒店有几种类型的房间：自动房间（栈）、动态房间（堆）、共享空间（静态存储区），还有专用 VIP 区（寄存器）。每种房型都有其特点和用途，客人（程序）根据需要选择房型。
