@@ -16,3 +16,4 @@ MSGraph的认证机制通过提供一套标准化、安全的认证流程，确�
 ## 资源链接
 
 - [AuthorizationCodeCredential 详解](/2024/04/25/MSGraph-AuthorizationCodeCredential/)
+- [AzureDeveloperCliCredential 详解](/2024/04/25/MSGraph-AzureDeveloperCliCredential/)
