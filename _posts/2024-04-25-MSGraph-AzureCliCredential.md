@@ -25,15 +25,17 @@ AzureCliCredential是一个便利的认证方式，它允许开发者通过已�
 
 ```python
 from azure.identity import AzureCliCredential
-from microsoft.graph.core import GraphClient
+from msgraph import GraphServiceClient
 
-# 创建AzureCliCredential实例
+# 创建 AzureCliCredential 实例
 credential = AzureCliCredential()
 
-# 使用AzureCliCredential实例初始化GraphClient
-graph_client = GraphClient(credential=credential)
+# 创建 GraphClient 实例
+client = GraphServiceClient(credential)
 
-# 现在你可以通过graph_client安全地访问Microsoft Graph服务
+# 使用 client 获取 Microsoft Graph 的数据
+result = client.users.get("me")
+print(result)  # 输出获取的用户信息
 ```
 
 ## 注意事项
