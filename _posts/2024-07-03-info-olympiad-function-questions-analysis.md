@@ -7,6 +7,8 @@ categories: algorithms olympiad functions
 
 原题链接: [求正整数2和n之间的完全数](http://ybt.ssoier.cn:8088/problem_show.php?pid=1150)
 
+![](https://raw.githubusercontent.com/jamiesun/images/master/default/iVjIKr.png)
+
 根据题目描述和样例输入输出的要求，我们需要编写一个程序，找到 2 和 n 之间的完全数，并按升序输出。一个完全数是指它的所有真因子（不包括自身）之和等于它本身。
 
 以下是针对这道题的详细解题思路：
