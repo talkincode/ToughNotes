@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "信息奥赛一本通函数题库解析-4: 回文三位数"
+title: "信息奥赛一本通函数题库解析: 回文三位数"
 date: 2024-07-03 01:24:37 +0800
 categories: algorithms olympiad functions
 ---

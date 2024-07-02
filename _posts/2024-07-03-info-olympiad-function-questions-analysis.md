@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "信息奥赛一本通函数题库解析-1: 求正整数2和n之间的完全数"
+title:  "信息奥赛一本通函数题库解析: 求正整数2和n之间的完全数"
 date:   2024-07-03 00:22:51 +0800
 categories: algorithms olympiad functions
 ---

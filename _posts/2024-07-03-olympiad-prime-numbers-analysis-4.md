@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "信息奥赛一本通函数题库解析-4: 绝对素数"
+title:  "信息奥赛一本通函数题库解析: 绝对素数"
 date:   2024-07-03 01:16:39 +0800
 categories: algorithms olympiad functions
 ---
