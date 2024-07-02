@@ -2,7 +2,7 @@
 layout: post
 title:  "信息奥赛一本通函数题库解析: 素数个数"
 date:   2024-07-03 00:36:24 +0800
-categories: 奥赛 信息奥赛 函数题库
+categories: algorithms olympiad functions
 ---
 
 原题链接: [素数个数](http://ybt.ssoier.cn:8088/problem_show.php?pid=1151)
