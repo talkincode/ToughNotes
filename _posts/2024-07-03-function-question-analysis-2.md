@@ -7,6 +7,8 @@ categories: 奥赛 信息奥赛 函数题库
 
 原题链接: [素数个数](http://ybt.ssoier.cn:8088/problem_show.php?pid=1151)
 
+![](https://raw.githubusercontent.com/jamiesun/images/master/default/qzMvZi.png)
+
 ## 解题思路
 
 这道题目要求我们计算从 2 到 n（其中 n 的最大值为 50000）之间的素数个数。素数是指除了 1 和自身以外不再有其他因数的自然数。解决这个问题我们可以使用 **埃拉托色尼筛法（Sieve of Eratosthenes）**，这是一种高效的计算素数的算法。
