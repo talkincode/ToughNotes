@@ -2,8 +2,9 @@
 layout: post
 title: "信息奥赛一本通函数题库解析-4: 回文三位数"
 date: 2024-07-03 01:24:37 +0800
-categories: math olympiad functions
+categories: algorithms olympiad functions
 ---
+
 
 原题链接: [](http://ybt.ssoier.cn:8088/problem_show.php?pid=1155)
 

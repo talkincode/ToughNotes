@@ -2,7 +2,7 @@
 layout: post
 title:  "信息奥赛一本通函数题库解析-3: 最大数max(x,y,z) "
 date:   2024-07-03 01:03:06 +0800
-categories: 竞赛 数学 函数 题库解析
+categories: algorithms olympiad functions
 ---
 
 原题链接: [](http://ybt.ssoier.cn:8088/problem_show.php?pid=1152)
